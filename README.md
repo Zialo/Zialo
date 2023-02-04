@@ -25,6 +25,8 @@ _July 2020 - September 2020_
 * Extracurricular internship during the summer where I performed tasks within different teams doing more work within the facial biometrics and artificial intelligence team.
 
 ## These are my statistics on Github
+(Considering the work done only within _**public**_ repositories)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zialo&theme=tokyonight" />
 </a>
