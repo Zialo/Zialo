@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Hodei!
 
-## Some stats
+## These are my statistics on Github
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zialo&theme=tokyonight" />
 </a>
