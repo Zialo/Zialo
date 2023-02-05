@@ -28,11 +28,11 @@ _July 2020 - September 2020_
 (Considering the work done only within _**public**_ repositories)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zialo&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zialo&theme=aura&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zialo&theme=tokyonight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zialo&theme=aura&count_private=true&show_icons=true" />
 </a>
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 If you have any questions, please do not hesitate to contact me by [e-mail](mailto:hodei54@gmail.com)
