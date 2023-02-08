@@ -36,7 +36,7 @@ _September 2022 - Nowadays_
 _July 2020 - September 2020_
 * Extracurricular internship during the summer where I performed tasks within different teams doing more work within the facial biometrics and artificial intelligence team.
 
-## :hammer_and_wrench: Languages and Tools
+## :shield: Languages and Tools
 ### :small_blue_diamond: Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
