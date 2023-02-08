@@ -90,5 +90,3 @@ The personal projects I am most proud of are the two shown below. The first of t
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zialo&repo=Trabajo-Fin-de-Master&show_owner=true&theme=aura)](https://github.com/Zialo/Trabajo-Fin-de-Master)
 
 If you have any questions, please do not hesitate to contact me by [e-mail](mailto:hodei54@gmail.com):incoming_envelope:
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zialo&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
