@@ -83,4 +83,10 @@ _July 2020 - September 2020_
 </a>
 <br><br><br>
 
+## :hammer_and_wrench: My Featured Projects
+The personal projects I am most proud of are the two shown below. The first of these was my Degree Thesis. The second, on the other hand, is my Master's Thesis.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zialo&repo=Leukemia-Research&show_owner=true&theme=aura)](https://github.com/Zialo/Leukemia-Research)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zialo&repo=Trabajo-Fin-de-Master&show_owner=true&theme=aura)](https://github.com/Zialo/Trabajo-Fin-de-Master)
+
 If you have any questions, please do not hesitate to contact me by [e-mail](mailto:hodei54@gmail.com):incoming_envelope:
