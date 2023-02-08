@@ -77,7 +77,7 @@ _July 2020 - September 2020_
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zialo&theme=aura&show_icons=true" />
 </a>
-<br>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zialo&theme=aura&count_private=true&show_icons=true" />
 </a>
