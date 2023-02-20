@@ -1,4 +1,4 @@
-# Hello everyone 👋 My name is Hodei!
+# Hello everyone 👋 My name is Hodei!!
 
 ![Computer Science](csc_elementary.png)
 
