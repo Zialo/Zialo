@@ -75,7 +75,7 @@ _July 2020 - September 2020_
 (Considering the work done only within _**public**_ repositories)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-liard-62.vercel.app/api/top-langs/?username=Zialo&theme=aura&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-zialo.vercel.app/api/top-langs/?username=Zialo&theme=aura&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
