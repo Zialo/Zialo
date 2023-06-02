@@ -75,18 +75,18 @@ _July 2020 - September 2020_
 (Considering the work done only within _**public**_ repositories)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-zialo.vercel.app/api/top-langs/?username=Zialo&theme=aura&show_icons=true" />
+  <img align="center" src="https://github-readme-stat-zialo.vercel.app/api/top-langs/?username=Zialo&theme=aura&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-ten-liard-62.vercel.app/api?username=Zialo&theme=aura&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stat-ten-liard-62.vercel.app/api?username=Zialo&theme=aura&count_private=true&show_icons=true" />
 </a>
 <br><br><br>
 
 ## :hammer_and_wrench: My Featured Projects
 The personal projects I am most proud of are the two shown below. The first of these was my Degree Thesis. The second, on the other hand, is my Master's Thesis.
 
-[![Readme Card](https://github-readme-stats-ten-liard-62.vercel.app/api/pin/?username=Zialo&repo=Leukemia-Research&show_owner=true&theme=aura)](https://github.com/Zialo/Leukemia-Research)
-[![Readme Card](https://github-readme-stats-ten-liard-62.vercel.app/api/pin/?username=Zialo&repo=Trabajo-Fin-de-Master&show_owner=true&theme=aura)](https://github.com/Zialo/Trabajo-Fin-de-Master)
+[![Readme Card](https://github-readme-stat-ten-liard-62.vercel.app/api/pin/?username=Zialo&repo=Leukemia-Research&show_owner=true&theme=aura)](https://github.com/Zialo/Leukemia-Research)
+[![Readme Card](https://github-readme-stat-ten-liard-62.vercel.app/api/pin/?username=Zialo&repo=Trabajo-Fin-de-Master&show_owner=true&theme=aura)](https://github.com/Zialo/Trabajo-Fin-de-Master)
 
 If you have any questions, please do not hesitate to contact me by [e-mail](mailto:hodei54@gmail.com):incoming_envelope:
