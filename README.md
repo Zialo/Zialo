@@ -74,7 +74,8 @@ _July 2020 - September 2020_
 ## :hammer_and_wrench: My Featured Projects
 The personal projects I am most proud of are the two shown below. The first of these was my Degree Thesis. The second, on the other hand, is my Master's Thesis.
 
-[![Leukemia-Research](https://github.com/Zialo/Leukemia-Research)
-[![ImitAI TFM Project](https://github.com/Zialo/Trabajo-Fin-de-Master)
-
+<ul>
+  [Leukemia-Research](https://github.com/Zialo/Leukemia-Research)
+  [ImitAI TFM Project](https://github.com/Zialo/Trabajo-Fin-de-Master)
+</ul>
 If you have any questions, please do not hesitate to contact me by [e-mail](mailto:hodei54@gmail.com):incoming_envelope:
